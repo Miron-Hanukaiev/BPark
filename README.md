@@ -4,7 +4,7 @@ Java-based Client-Server Parking Management System
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0fee7b31-3a76-4e92-9369-f23909b3cd85" width="400"/>
+  <img src="https://github.com/user-attachments/assets/0fee7b31-3a76-4e92-9369-f23909b3cd85" width="900"/>
 </p>
 
 BPARK is a Java-based client-server parking management system developed as an academic project during my third year of Software Engineering studies.
@@ -25,6 +25,18 @@ The system demonstrates practical application of software engineering principles
 
 --------------------------------------------------
 About the Project
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38824411-bcf4-4af7-9475-1e6a3a9d6585" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99b89853-2ef3-479b-a710-a47a95703c1f" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11ded1e5-6d7c-4866-95ef-1c897061b1f0" width="700"/>
+</p>
 
 BPARK showcases the design and implementation of a distributed system using a client-server architecture.  
 The project emphasizes clean separation of concerns, reliable communication, and real-time interaction between system components.
@@ -89,12 +101,14 @@ Key Features
 --------------------------------------------------
 Project Structure
 
+```bash
 BPARK/
-|
-|-- BPark_Client/      JavaFX client application
-|-- BPark_Server/      Server-side logic and database access
-|-- BPark_Common/      Shared models and communication objects
-|-- README.md
+│
+├── BPark_Client/      JavaFX client application
+├── BPark_Server/      Server-side logic and database access
+├── BPark_Common/      Shared models and communication objects
+└── README.md
+```
 
 --------------------------------------------------
 Getting Started
