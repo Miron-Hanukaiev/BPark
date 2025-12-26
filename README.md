@@ -1,12 +1,17 @@
-BPARK – Parking Management System
+<h1 align="center">BPARK – Parking Management System</h1>
+<p align="center">
+Java-based Client-Server Parking Management System
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fee7b31-3a76-4e92-9369-f23909b3cd85" width="400"/>
+</p>
 
 BPARK is a Java-based client-server parking management system developed as an academic project during my third year of Software Engineering studies.
 The system simulates a real-world parking management environment, including vehicle entry, reservations, subscriber validation, and parking lot capacity control.
 
 --------------------------------------------------
 System Overview
-
-![Start](https://github.com/user-attachments/assets/0fee7b31-3a76-4e92-9369-f23909b3cd85)
 
 The project follows a client-server architecture and is divided into three main modules:
 
